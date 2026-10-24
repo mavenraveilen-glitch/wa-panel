@@ -1,0 +1,20 @@
+{
+  "name": "wa-bot-70-fitur",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot 70 Fitur",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "axios": "^1.7.2",
+    "google-tts-api": "^2.0.2",
+    "yt-search": "^2.10.4",
+    "tesseract.js": "^5.0.4",
+    "qrcode": "^1.5.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
